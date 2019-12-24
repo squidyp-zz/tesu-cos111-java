@@ -74,6 +74,5 @@ public class RelativelyPrimeArray{ // start of class
       } // end of j for loop
       System.out.println(); // prints new line after the need each j loop
     } // end of i for loop
-    System.out.print((float)8/6);
   } // end of main
 } // end of class
