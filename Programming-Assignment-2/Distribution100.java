@@ -1,4 +1,4 @@
-// Charles Panter
+// SquidyP
 // COS-111 Intro to Programming (COS-111-OL009)
 // Distribution100
 /*
@@ -18,7 +18,7 @@ A sample run would be as follows.
 */
 public class Distribution100{ // Start of
   public static void main(String[] args) throws Exception{
-    // variables 
+    // variables
     int n = Integer.parseInt(args[0]);
     int[] nums = new int[n];
     int j = 0;
