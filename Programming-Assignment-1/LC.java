@@ -1,4 +1,4 @@
-// Charles Panter
+// SquidyP
 // COS-111 Intro to Programming (COS-111-OL009)
 // LC
 
